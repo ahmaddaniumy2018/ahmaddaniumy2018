@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahmad dani
 - 👀 I’m interested in arabic
 - 🌱 I’m currently learning University Muhammadiyah Yogyakarta
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram @dani.ahmadd_
 
 <!---
